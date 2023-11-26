@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **full stack development with Node.JS and Express.**
 
-- 🤝 I’m looking for help with **expanding my network!**
+- 🤝 I’m looking for help **expanding my network!**
 
 - 👨‍💻 All of my projects are available at [https://alicedechevaux.netlify.app/](https://alicedechevaux.netlify.app/)
 
