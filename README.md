@@ -1,5 +1,5 @@
 <h1 align="center">🎃 Hi! I'm Alice, welcome to my GitHub 🎃</h1>
-<h3 align="center">🏙️ A Chicago based software engineer coding full-stack JavaScript applications 🏙️</h3>
+<h3 align="center">🏙️ A Chicago based software engineer building full-stack JavaScript applications 🏙️</h3>
 
 - 🔭 I’m currently working on [a full stack app for a bar and live music venue.](https://redroomla.netlify.app/)
 
